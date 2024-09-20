@@ -74,17 +74,17 @@ graph TD;
     B --> G[PostgreSQL & MySQL];
     B --> H[JUnit 5 & Mockito];
     B --> I[Reactive WebFlux];
-    B --> J[PWA Development];
-    B --> K[Google Wallet Integration];
+    B --> J[Test Driven Development];
+    B --> K[DevOps];
 
     A --> L(Work Experience);
     L --> M[Vervetronics Imagineering Pvt Ltd];
     M --> N[IoT Sensors Monitoring System];
-    L --> O[GTL Software Pvt Ltd];
-    O --> P[Ticket Provisioning System];
+    M --> O[Ticket Provisioning System];
+    L --> P[GTL Software Pvt Ltd];
 
     A --> Q(Current Projects);
-    Q --> R[PWA & Android Frontend];
+    Q --> R[WebFlux-based Reactive Systems];
     Q --> S[Exploring GitHub Actions];
 
     A --> T(Education);
@@ -95,6 +95,17 @@ graph TD;
     V --> X[Cooking];
 
     A --> Y(Contact Information);
-    Y --> Z[Email: vishwajeet@example.com];
+    Y --> Z[Email: vishwajeetak@gmail.com];
     Y --> AA[LinkedIn: Vishwajeet Kotkar];
-    Y --> AB[GitHub: Vishwajeet Kotkar];
+    Y --> AB[GitHub: Vishwajeet-29-pro];
+
+    %% Color settings using background colors
+    style A fill:#f9a825,stroke:#333,stroke-width:2px;
+    style B fill:#4caf50,stroke:#2e7d32,stroke-width:2px;
+    style L fill:#2196f3,stroke:#0d47a1,stroke-width:2px;
+    style Q fill:#ff7043,stroke:#bf360c,stroke-width:2px;
+    style T fill:#8e24aa,stroke:#4a148c,stroke-width:2px;
+    style V fill:#ffeb3b,stroke:#fbc02d,stroke-width:2px;
+    style Y fill:#f06292,stroke:#ad1457,stroke-width:2px;
+
+
