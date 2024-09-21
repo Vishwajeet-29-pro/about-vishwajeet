@@ -57,7 +57,7 @@
 ---
 
 <h3 align="left">Certifications:</h3>
-<p align="left">
+<p align="left" style="background-color: white; padding: 10px; border-radius: 10px;">
   <a href="http://ude.my/UC-24a31a17-892c-4b93-9681-f5f727a73130" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" alt="Udemy Certification" width="150" height="40" />
   </a>
@@ -107,5 +107,6 @@ graph TD;
     style T fill:#8e24aa,stroke:#4a148c,stroke-width:2px;
     style V fill:#ffeb3b,stroke:#fbc02d,stroke-width:2px;
     style Y fill:#f06292,stroke:#ad1457,stroke-width:2px;
-
+```
+![Snake animation](https://github.com/Vishwajeet-29-pro/Vishwajeet-29-pro/blob/output/github-contribution-grid-snake.svg)
 
