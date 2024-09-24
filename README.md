@@ -40,8 +40,8 @@
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a>
-    <a href="https://gradle.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/> </a>
-    <a href="https://micronaut.io/" target="_blank"> <img src="https://micronaut.io/wp-content/uploads/2019/12/micronaut_logo_navy.png" alt="Micronaut" width="40" height="40"/> </a>
+    <a href="https://gradle.org/" target="_blank"> <img src="https://gradle.com/_next/static/media/logo-gradle.c1f12d23.svg" alt="Gradle" width="40" height="40"/> </a>
+    <a href="https://micronaut.io/" target="_blank"> <img src="https://micronaut.io/wp-content/uploads/2020/11/MIcronautLogo_Horizontal.svg" alt="Micronaut" width="40" height="40"/> </a>
 </p>
 
 ---
